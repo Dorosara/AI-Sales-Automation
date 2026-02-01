@@ -1,0 +1,5 @@
+{
+  "name": "AI Sales Automation Agent",
+  "description": "A high-performance tool for generating personalized AI sales scripts, video scripts, and voice outreach messages using the Gemini API.",
+  "requestFramePermissions": []
+}
